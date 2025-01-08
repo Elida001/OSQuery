@@ -1,7 +1,11 @@
 /*************************** Sophos.com/RapidResponse ***************************\
 | DESCRIPTION                                                                    |
 | The query gets URL activity from the Sophos URL, HTTP, and DNS journals. Enter |
+<<<<<<< HEAD
 | the URL as a variable. Otherwise, the query won't generate results due to the  |
+=======
+| the URL as a variable. Otherwise the query won't generate results due to the   |
+>>>>>>> a8093f4ae14831501e8f44f244c80fffaef4dd67
 | large amount of data collected by these journals. The query also uses the      |
 | Sophos Process Journal to provide additional context about the event.          |
 |                                                                                |

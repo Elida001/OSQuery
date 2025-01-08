@@ -1,7 +1,11 @@
 /*************************** Sophos.com/RapidResponse ***************************\
 | DESCRIPTION                                                                    |
 | Identifies remote RDP connections by analyzing MRU entries from the NTUSER.DAT |
+<<<<<<< HEAD
 | registry hive, which provides details on systems recently accessed via Remote  |
+=======
+| registry hive which provides details on systems recently accessed via Remote   |
+>>>>>>> a8093f4ae14831501e8f44f244c80fffaef4dd67
 | Desktop Connection.                                                            |
 |                                                                                |
 | Query Type: Endpoint                                                           |

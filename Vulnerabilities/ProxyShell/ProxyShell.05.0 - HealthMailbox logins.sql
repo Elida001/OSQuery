@@ -1,6 +1,10 @@
 /*************************** Sophos.com/RapidResponse ***************************\
 | DESCRIPTION                                                                    |
+<<<<<<< HEAD
 | Looks for suspicious HealthMailbox logins. Legit UPNs should have              |
+=======
+| Looking for suspicious HealthMailbox logins. Legit UPNs should have            |
+>>>>>>> a8093f4ae14831501e8f44f244c80fffaef4dd67
 | \"HealthMailbox+32characterString\" where most malicious ones have +7 strings. |
 |                                                                                |
 | Version: 1.0                                                                   |

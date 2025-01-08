@@ -1,6 +1,10 @@
 /*************************** Sophos.com/RapidResponse ***************************\
 | DESCRIPTION                                                                    |
+<<<<<<< HEAD
 | Lists all current named pipes on the system and lists ones associated with     |
+=======
+| List all current named pipes on the system and lists ones associated with      |
+>>>>>>> a8093f4ae14831501e8f44f244c80fffaef4dd67
 | applications used by attackers. Helps identify lateral movement.               |
 |                                                                                |
 | REFERENCE                                                                      |

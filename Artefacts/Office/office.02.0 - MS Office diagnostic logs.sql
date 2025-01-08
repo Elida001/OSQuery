@@ -1,6 +1,14 @@
 /*************************** Sophos.com/RapidResponse ***************************\
 | DESCRIPTION                                                                    |
+<<<<<<< HEAD
 | Looks for the Office diagnostic log file.                                      |
+=======
+| Looks for the Office diagnostic log file. Payloads for CVE-2022-30190          |
+| ('Follina') are in this log file.                                              |
+|                                                                                |
+| REFERENCE                                                                      |
+| https://twitter.com/nas_bench/status/1531718490494844928                       |
+>>>>>>> a8093f4ae14831501e8f44f244c80fffaef4dd67
 |                                                                                |
 | Version: 1.0                                                                   |
 | Author: The Rapid Response Team | Elida Leite                                  |

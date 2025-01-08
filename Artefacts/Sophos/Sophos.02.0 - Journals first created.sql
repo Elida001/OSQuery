@@ -1,7 +1,12 @@
 /*************************** Sophos.com/RapidResponse ***************************\
 | DESCRIPTION                                                                    |
+<<<<<<< HEAD
 | Checks when the Sophos Journals were first created. Use this if you aren't     |
 | getting the data you expected.                                                 |
+=======
+| Checks when the Sophos Journals were first created. This is a useful check if  |
+| you aren't arn't getting the data you expected.                                |
+>>>>>>> a8093f4ae14831501e8f44f244c80fffaef4dd67
 |                                                                                |
 | Version: 1.0                                                                   |
 | Author: @AltShiftPrtScn                                                        |

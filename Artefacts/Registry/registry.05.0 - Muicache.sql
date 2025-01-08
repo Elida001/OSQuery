@@ -2,7 +2,11 @@
 | DESCRIPTION                                                                    |
 | When an application starts, Windows extracts some information from the resource|
 | section of the PE file and stores it in a registry key known as the MuiCache.  |
+<<<<<<< HEAD
 | This artifact can be evidence that a program ran.                              |
+=======
+| This artifact can be evidence of a program starting.                           |
+>>>>>>> a8093f4ae14831501e8f44f244c80fffaef4dd67
 |                                                                                |
 | It's worth noticing that data in the Muicache can be easily deleted.           |
 |                                                                                |
